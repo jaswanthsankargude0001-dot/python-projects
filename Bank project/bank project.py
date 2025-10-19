@@ -3,7 +3,7 @@ customerpin = ['1234', '2345']
 customerbalance = [231, 23421]
 
 while True:
-    print("*" * 10, 'Welcome to Naresh Bank', "*" * 10)
+    print("*" * 10, 'Welcome to union Bank', "*" * 10)
     print('''Which function do you want to use from below:
     1) Open new account
     2) Withdraw
