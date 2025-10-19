@@ -1,6 +1,3 @@
-customername = ['naresh', 'kumar']
-customerpin = ['1234', '2345']
-customerbalance = [231, 23421]
 
 while True:
     print("*" * 10, 'Welcome to union Bank', "*" * 10)
